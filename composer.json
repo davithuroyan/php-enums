@@ -1,0 +1,24 @@
+{
+  "name": "davithuroyan/php-enums",
+  "type": "library",
+  "description": "PHP-ML - Machine Learning library for PHP",
+  "keywords": [
+    "php enums"
+  ],
+  "homepage": "https://github.com/davithuroyan/php-enums",
+  "authors": [
+    {
+      "name": "Davit Huroyan",
+      "email": "davithuroyan@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^5.4"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "Phpml\\": "src/"
+    }
+  }
+}
